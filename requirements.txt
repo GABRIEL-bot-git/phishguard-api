@@ -3,3 +3,6 @@ uvicorn
 scikit-learn
 xgboost
 pandas
+mysql-connector-python
+bcrypt
+python-dotenv
